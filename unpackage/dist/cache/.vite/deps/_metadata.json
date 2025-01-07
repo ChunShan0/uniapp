@@ -1,0 +1,15 @@
+{
+  "hash": "1c039d28",
+  "configHash": "d8d15852",
+  "lockfileHash": "ee488787",
+  "browserHash": "69723f42",
+  "optimized": {
+    "element-plus": {
+      "src": "../../../../../node_modules/element-plus/es/index.mjs",
+      "file": "element-plus.js",
+      "fileHash": "148c1f18",
+      "needsInterop": false
+    }
+  },
+  "chunks": {}
+}
